@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 049cf625f5b81bf40a4427af9301dc0d
+timeCreated: 1509624685
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: abdomen
+    100002: body
+    100004: end_abdomen
+    100006: end_body
+    100008: end_leg1l
+    100010: end_leg1r
+    100012: end_leg2l
+    100014: end_leg2r
+    100016: end_leg3l
+    100018: end_leg3r
+    100020: end_leg4l
+    100022: end_leg4r
+    100024: leg_1_base_l
+    100026: leg_1_base_r
+    100028: leg_1_end_l
+    100030: leg_1_end_r
+    100032: leg_1_middle_l
+    100034: leg_1_middle_r
+    100036: leg_2_base_l
+    100038: leg_2_base_r
+    100040: leg_2_end_l
+    100042: leg_2_end_r
+    100044: leg_2_middle_l
+    100046: leg_2_middle_r
+    100048: leg_3_base_l
+    100050: leg_3_base_r
+    100052: leg_3_end_l
+    100054: leg_3_end_r
+    100056: leg_3_middle_l
+    100058: leg_3_middle_r
+    100060: leg_4_base_l
+    100062: leg_4_base_r
+    100064: leg_4_end_l
+    100066: leg_4_end_r
+    100068: leg_4_middle_l
+    100070: leg_4_middle_r
+    100072: spider_proxy
+    100074: //RootNode
+    400000: abdomen
+    400002: body
+    400004: end_abdomen
+    400006: end_body
+    400008: end_leg1l
+    400010: end_leg1r
+    400012: end_leg2l
+    400014: end_leg2r
+    400016: end_leg3l
+    400018: end_leg3r
+    400020: end_leg4l
+    400022: end_leg4r
+    400024: leg_1_base_l
+    400026: leg_1_base_r
+    400028: leg_1_end_l
+    400030: leg_1_end_r
+    400032: leg_1_middle_l
+    400034: leg_1_middle_r
+    400036: leg_2_base_l
+    400038: leg_2_base_r
+    400040: leg_2_end_l
+    400042: leg_2_end_r
+    400044: leg_2_middle_l
+    400046: leg_2_middle_r
+    400048: leg_3_base_l
+    400050: leg_3_base_r
+    400052: leg_3_end_l
+    400054: leg_3_end_r
+    400056: leg_3_middle_l
+    400058: leg_3_middle_r
+    400060: leg_4_base_l
+    400062: leg_4_base_r
+    400064: leg_4_end_l
+    400066: leg_4_end_r
+    400068: leg_4_middle_l
+    400070: leg_4_middle_r
+    400072: spider_proxy
+    400074: //RootNode
+    4300000: spider_proxy
+    7400000: spider_scout_attack_anim
+    9500000: //RootNode
+    13700000: spider_proxy
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: spider_scout_attack_anim
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8f04172d6fb49ea4493fb3472a9c25fc
+timeCreated: 1509667502
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Nexa Light
+  fontNames:
+  - Nexa Light
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

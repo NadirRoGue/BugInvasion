@@ -1,0 +1,8 @@
+biome=BIOME_GREEN
+starting_credits=300
+num_waves=4
+mob_spawn_pace_seconds=5.0
+wave_1_enemy=Araña Exploradora,5
+wave_2_enemy=Araña Exploradora,8
+wave_3_enemy=Araña Exploradora,10
+wave_4_enemy=Araña Exploradora,12
